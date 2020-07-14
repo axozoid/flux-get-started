@@ -1,0 +1,1 @@
+{"jobID":"3136c007-f506-1ee4-b3d0-e84e3d4b8b44","spec":{"type":"policy","cause":{"Message":"","User":"Alexey.Shabalin \u003calexey.shabalin@hazelcast.com\u003e"},"spec":{"demo:deployment/podinfo":{"add":{},"remove":{"automated":"true"}}}},"result":null}
